@@ -1,0 +1,13 @@
+{
+    "themes": [
+        {
+            "Name": "default",
+            "Description": "default net theme",
+            "ClearWhenChange": true,
+            "BlockedCommands": [],
+            "Views_Prompt": "default/prompt.tfx",
+            "Views_HomeClear": "default/clear-splash.tfx",
+            "Views_AttackSplash": "default/attack-sent.tfx"
+        }
+    ]
+}
